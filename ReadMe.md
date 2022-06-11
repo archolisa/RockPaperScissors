@@ -19,3 +19,7 @@ Instructions:
 When the program is run,  pick an option between "R", "P" or "S"
 If there is a winner, the winner is displayed, and the program ends. 
 If it's a tie (the computer and player pick the same move), the game is restarted from step 3
+
+
+About Rock Paper Scissors Game: https://en.wikipedia.org/wiki/Rock_paper_scissors
+Watch how to Play: https://www.youtube.com/watch?v=2dsHuU10udY&ab_channel=TripleSGames
