@@ -22,4 +22,5 @@ If it's a tie (the computer and player pick the same move), the game is restarte
 
 
 About Rock Paper Scissors Game: https://en.wikipedia.org/wiki/Rock_paper_scissors
+
 Watch how to Play: https://www.youtube.com/watch?v=2dsHuU10udY&ab_channel=TripleSGames
